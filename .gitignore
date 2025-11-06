@@ -1,5 +1,0 @@
-# Fichiers temporaires et résultats
-*.tmp
-*.log
-results/*.png
-results/*.csv
